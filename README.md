@@ -8,5 +8,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Please visit my web-site at www.my-fiat-world.com
+Please visit my web-site at www.my-automotive-world.com
+
+## Contact
+
 
