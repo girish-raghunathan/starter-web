@@ -11,5 +11,10 @@ Sample website with plenty of files for demos
 Please visit my web-site at www.my-automotive-world.com
 
 ## Contact
+ girish_raghu@hotmail.com
+ 
+### Copyright
 
+GIT Training 2020
+  _
 
