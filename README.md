@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work.
 
 12-Jan-2020 - We are doing Re-Basing thingy.
+GIT is interesting indeed.
+
 
 ## Purpose
 
